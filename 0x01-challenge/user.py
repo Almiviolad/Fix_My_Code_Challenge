@@ -24,7 +24,7 @@ class User():
         self.__email = value
 
 
-If __name__ == "__main__":
+if __name__ == "__main__":
 
     u = User()
     u.email = "john@snow.com"
